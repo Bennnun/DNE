@@ -1,10 +1,10 @@
 # Deep Neuroevolution experiments
 
-This project collects a set of neuroevolution experiments with/towards deep networks.
+This project collects a set of neuroevolution experiments with/towards deep networks for reinforcement learning using an unsupervised learning feature exctactor.
 
 ## Installation
 
-First make sure the OpenAI Gym is pip-installed, [instructions here](https://github.com/openai/gym).  
+First make sure the OpenAI Gym is pip-installed on python3, [instructions here](https://github.com/openai/gym).  
 You will also need the [GVGAI_GYM](https://github.com/rubenrtorrado/GVGAI_GYM) to access GVGAI environments.
 
 Clone this repository, then execute:
